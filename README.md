@@ -4,6 +4,7 @@
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/numan-akoluk-668793128/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:numanakoluk01@gmail.com" target="_blank" rel="nofollow"><img alt="Numans's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
  <h3>Technologies and Tools I use</h3>
  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
@@ -15,4 +16,7 @@
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=numanakoluk&show_icons=true&theme=gradient) 
+ <br>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{numanakoluk}/count.svg)
 
